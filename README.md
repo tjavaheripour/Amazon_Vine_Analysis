@@ -9,9 +9,10 @@ In this project I picked [a data set](https://s3.amazonaws.com/amazon-reviews-pd
 ## Results:
 
 - How many Vine reviews and non-Vine reviews were there?
-
+There were 1207 total Vine reviews(paid).
 ![1.PNG](https://github.com/tjavaheripour/Amazon_Vine_Analysis/blob/main/Images/1.PNG)
 
+There were 97839 total non-Vine reviews(unpaid).
 ![2.PNG](https://github.com/tjavaheripour/Amazon_Vine_Analysis/blob/main/Images/2.PNG)
 
 - How many Vine reviews were 5 stars? 
