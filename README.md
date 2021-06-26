@@ -35,3 +35,5 @@ There were 97839 total non-Vine reviews(unpaid).
 ![6.PNG](https://github.com/tjavaheripour/Amazon_Vine_Analysis/blob/main/Images/6.PNG)
 
 ## Summary:
+Based on results, we can conclude that the Percentage of Non-Vine or unpaid reviews that received 5-Stars was actually more than the paid reviews so paying for the Vine service to get paid reviews does not necessarily provide a positivity bias that results in more 5-Star reviews.
+one additional analysis that we could do with the dataset is to find the rating for each star (1-5) for vine and non-vine reviews and compare them. Additionally we could divide a dataset in two sections as positive and negative reviews of paid and unpaid program and analyze the results. 
